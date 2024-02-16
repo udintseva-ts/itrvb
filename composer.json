@@ -1,5 +1,5 @@
 {
-    "name": "kormich/lab3",
+    "name": "udintseva/lab3",
     "autoload": {
         "psr-4": {
             "my\\": "src/",
@@ -8,8 +8,8 @@
     },
     "authors": [
         {
-            "name": "SashaKormich",
-            "email": "kormich@mail.ru"
+            "name": "UdintsevaTanya",
+            "email": "udintseva.t@mail.ru"
         }
     ],
     "require": {
