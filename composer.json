@@ -1,0 +1,27 @@
+{
+    "name": "kormich/lab3",
+    "autoload": {
+        "psr-4": {
+            "my\\": "src/",
+            "UnitTests\\": "tests/",
+            "http\\": "http/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SashaKormich",
+            "email": "kormich@mail.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23",
+        "symfony/polyfill-uuid": "^1.28",
+        "ramsey/uuid": "^4.7",
+        "ext-pdo": "*",
+        "symfony/http-foundation": "^7.0",
+        "psr/container": "^2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
