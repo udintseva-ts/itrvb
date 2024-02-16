@@ -1,0 +1,17 @@
+{
+    "name": "kormich/lab3",
+    "autoload": {
+        "psr-4": {
+            "my\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SashaKormich",
+            "email": "kormich@mail.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
